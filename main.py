@@ -7,8 +7,6 @@ import pyocr
 
 
 def main():
-    a = 2
-
     # OCRエンジン取得
     tools = pyocr.get_available_tools()
     tool = tools[0]

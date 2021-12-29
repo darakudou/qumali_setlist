@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 image/*
+common-320605-f1f2a4fe6ea8.json
+.idea/*
